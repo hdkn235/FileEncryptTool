@@ -1,0 +1,8 @@
+E:\Projects\文件加密小工具\文件加密小工具\bin\Debug\文件加密小工具.exe
+E:\Projects\文件加密小工具\文件加密小工具\bin\Debug\文件加密小工具.pdb
+E:\Projects\文件加密小工具\文件加密小工具\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Projects\文件加密小工具\文件加密小工具\obj\x86\Debug\文件加密小工具.Form1.resources
+E:\Projects\文件加密小工具\文件加密小工具\obj\x86\Debug\文件加密小工具.Properties.Resources.resources
+E:\Projects\文件加密小工具\文件加密小工具\obj\x86\Debug\文件加密小工具.exe
+E:\Projects\文件加密小工具\文件加密小工具\obj\x86\Debug\文件加密小工具.pdb
+E:\Projects\文件加密小工具\文件加密小工具\obj\x86\Debug\文件加密小工具.csproj.GenerateResource.Cache
